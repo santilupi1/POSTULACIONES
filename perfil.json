@@ -1,0 +1,34 @@
+{
+  "nombre": "Santiago Lupi",
+  "rol_buscado": [
+    "Pasante de Ingeniería",
+    "Ingeniería Industrial Part-Time",
+    "Junior Industrial Engineer",
+    "Pasante de Procesos",
+    "Estudiante de Ingeniería",
+    "Pasante de Logística y Operaciones",
+    "Prácticas Ingeniería"
+  ],
+  "educacion": {
+    "carrera": "Ingeniería Industrial",
+    "universidad": "Universidad Austral",
+    "estado": "3º/4º año en curso"
+  },
+  "habilidades_clave": [
+    "Excel avanzado",
+    "Power BI",
+    "AutoCAD",
+    "Gestión de costos y presupuestos",
+    "Optimización de procesos productivos",
+    "Python / Análisis de datos"
+  ],
+  "idiomas": {
+    "espanol": "Nativo",
+    "ingles": "B2/C1"
+  },
+  "experiencia_destacada": [
+    "Optimización de procesos productivos y análisis de costos y presupuestos en el sector industrial (Intexar).",
+    "Simulación de análisis de datos y distribución de modelos operativos."
+  ],
+  "cualidades_personales": "Perfil analítico, orientado a la mejora continua, con gran capacidad autodidacta y experiencia práctica gestionando proyectos de optimización y e-commerce."
+}
